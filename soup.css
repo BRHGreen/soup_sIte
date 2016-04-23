@@ -1,0 +1,37 @@
+h1 {
+font-size: 50px;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+color: rgba(0,50,10,1);
+padding: 30px;
+background: rgba(255,0,0,.3);
+}
+
+img {
+margin: -23px 0px 0px 95px;
+max-width: 325px;
+border: 20px solid rgba(0,50,10,.6);
+border-radius: 20px;  
+}
+
+header {
+background: url("backgound.jpg");
+background-size: cover
+}
+
+li {
+display: block;
+font-family: impact;
+}
+
+ul {
+background: rgba(255,0,0,.3);
+}
+
+p {
+font-family: impact;
+}
+
+#thoughts {
+margin-left: 10px;
+}
